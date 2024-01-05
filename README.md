@@ -7,6 +7,7 @@ At first make sure Python is installed on your machine.
 
 ## Next we have to create an environment
 Bt why?
+
 It creates a “virtual” isolated Python installation. When you switch projects, you can create a new virtual environment which is isolated from other virtual environments. You benefit from the virtual environment since packages can be installed confidently and will not interfere with another project's environment.
 
 For creating an environment use
