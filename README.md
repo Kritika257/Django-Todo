@@ -32,3 +32,6 @@ It will run at your
 ```
 localhost:8000
 ```
+
+# For Dockerizing you can checkout this blog
+https://kritikashaw.hashnode.dev/dockerizing-and-deploying-a-django-to-do-app-on-aws
