@@ -1,9 +1,9 @@
 ### Django-Todo-App
-### A Todo App built with Django
+## A Todo App built with Django
 
 ## Steps to run on your local machine.
 
-At first make sure Python is installed on your machine.
+# At first make sure Python is installed on your machine.
 
 Next we have to create environment
 Bt why?
